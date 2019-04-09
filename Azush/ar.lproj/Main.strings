@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "5DZ-0n-tj4"; */
+"5DZ-0n-tj4.text" = "عننا";
+
+/* Class = "UIButton"; normalTitle = "Find a Doctor"; ObjectID = "FLl-hu-XdG"; */
+"FLl-hu-XdG.normalTitle" = "البحث عن الدكتور";
+
+/* Class = "UILabel"; text = "Specialist"; ObjectID = "Fge-mY-fs1"; */
+"Fge-mY-fs1.text" = "خاص";
+
+/* Class = "UINavigationItem"; title = "Al-Azhar Universty Special Hospital"; ObjectID = "MD8-r5-vvz"; */
+"MD8-r5-vvz.title" = "مستشفي جامعه الازهر";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "NzN-DM-i3n"; */
+"NzN-DM-i3n.text" = "الاخبار";
+
+/* Class = "UILabel"; text = "Ask  a Question"; ObjectID = "OHf-Oq-aoM"; */
+"OHf-Oq-aoM.text" = "اسال سوال";
+
+/* Class = "UILabel"; text = "Contect Us"; ObjectID = "SCm-Fd-oZE"; */
+"SCm-Fd-oZE.text" = "اتصل بينا";
+
+/* Class = "UIButton"; normalTitle = "Outpatient Clinics"; ObjectID = "USj-Ze-VfY"; */
+"USj-Ze-VfY.normalTitle" = "العيادات";
+
+/* Class = "UIButton"; normalTitle = "العربيه"; ObjectID = "X3p-NX-NcJ"; */
+"X3p-NX-NcJ.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Outpatient"; ObjectID = "YK5-9H-44h"; */
+"YK5-9H-44h.text" = "عن المرضا";
+
+/* Class = "UILabel"; text = "Feed Back"; ObjectID = "Yjg-cd-Lcy"; */
+"Yjg-cd-Lcy.text" = "رد الفعل";
+
+/* Class = "UILabel"; text = "Appoinment"; ObjectID = "bfW-jT-DKs"; */
+"bfW-jT-DKs.text" = "الموعد";
+
+/* Class = "UIButton"; normalTitle = "Contect Us"; ObjectID = "c6h-CZ-Vho"; */
+"c6h-CZ-Vho.normalTitle" = "اتصل بينا";
+
+/* Class = "UIButton"; normalTitle = "Specialist Units"; ObjectID = "fHk-Rb-6sL"; */
+"fHk-Rb-6sL.normalTitle" = "تخصص";
+
+/* Class = "UIButton"; normalTitle = "Careers"; ObjectID = "g1T-Fz-QrE"; */
+"g1T-Fz-QrE.normalTitle" = "المهنه";
+
+/* Class = "UILabel"; text = "Careers"; ObjectID = "iev-J0-jaR"; */
+"iev-J0-jaR.text" = "المهنه";
+
+/* Class = "UIButton"; normalTitle = "Book An Appointment"; ObjectID = "kFH-KX-MXi"; */
+"kFH-KX-MXi.normalTitle" = "احجز موعد";
+
+/* Class = "UIButton"; normalTitle = "Media Center"; ObjectID = "mAO-P5-wf4"; */
+"mAO-P5-wf4.normalTitle" = "الاعلام";
+
+/* Class = "UIButton"; normalTitle = "News and Events"; ObjectID = "w2d-7W-vbj"; */
+"w2d-7W-vbj.normalTitle" = "الاخبار و الاعلام";
+
+/* Class = "UILabel"; text = "Ask a Question"; ObjectID = "wlV-on-DbY"; */
+"wlV-on-DbY.text" = "اسال سوال";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "woi-b9-01e"; */
+"woi-b9-01e.text" = "الموقع";
+
+/* Class = "UILabel"; text = "Find a Docotor"; ObjectID = "xdr-pj-6vj"; */
+"xdr-pj-6vj.text" = "ابحث عن دكتور";
+
+"restartTitle"="اعاده تشغيل الان";
+"close"="اغلاق";
+"cancel"="الغاء";
+"Arabic"="عربي";
+"English"="انجليزي";
+"restart"="اعاده";
+"Select Language"="االلغه";
+"Select Your Language"="اختار اللغه";

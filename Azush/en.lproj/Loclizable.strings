@@ -1,0 +1,96 @@
+/* 
+  Loclizable.strings
+  Azush
+
+  Created by Ahmed zaid on 3/26/19.
+  Copyright © 2019 Ahmed zaid. All rights reserved.
+*/
+
+"AnesthesiaUrl" = "https://www.azush.org/main/departments/anaesthesia/";
+"EarAndNoseUrl" = "https://www.azush.org/main/departments/ear-nose-and-throat/";
+"GastroenterologyUrl" = "https://www.azush.org/main/departments/gastroenterology/";
+"DiabetesUrl" = "https://www.azush.org/main/departments/diabetes-and-endocrinology/";
+"ChestUrl" = "https://www.azush.org/main/departments/chest-and-pulmonology/";
+"RadiologyUrl" = "https://www.azush.org/main/departments/radiology/";
+"PsychiatryUrl" = "https://www.azush.org/main/departments/psychiatry/";
+"OrthopedicUrl" = "https://www.azush.org/main/departments/orthopedic/";
+"DermatologyUrl" = "https://www.azush.org/main/departments/dermatology/";
+"UrologyUrl" = "https://www.azush.org/main/departments/urology/";
+"ObstetricsUrl" = "https://www.azush.org/main/departments/obstetrics-and-gynecology/";
+"CardiothoracicUrl" = "https://www.azush.org/main/departments/cardiothoracic-surgery/";
+"DentalUrl" = "https://www.azush.org/main/departments/dental/";
+"PhysiotherapyUrl" = "https://www.azush.org/main/departments/physiotherapy/";
+"SurgeryUrl" = "https://www.azush.org/main/departments/surgery/";
+"NeurosurgeryUrl" = "https://www.azush.org/main/departments/neurosurgery/";
+"VascularUrl" = "https://www.azush.org/main/departments/vascular-surgery/";
+"OphthalmologyUrl" = "https://www.azush.org/main/departments/ophthalmology/";
+"DieteticsUrl" = "https://www.azush.org/main/departments/dietetics/";
+"CardiologyUrl" = "https://www.azush.org/main/departments/cardiology/";
+"RheumatologyUrl" = "https://www.azush.org/main/departments/rheumatology/";
+"PediatricUrl" = "https://www.azush.org/main/departments/pediatric-and-neonatology/";
+"Internal-medicineUrl" = "https://www.azush.org/main/departments/internal-medicine/";
+"LaboratoryUrl" = "https://www.azush.org/main/departments/laboratory/";
+"BookingUrl" = "https://www.azush.org/main/make-an-appointment/";
+"DoctorsUrl" = "https://www.azush.org/main/doctors/";
+"Medical-tourismUrl" = "https://www.azush.org/main/medical-toursim/";
+"NewsUrl" = "https://www.azush.org/main/news-and-events/";
+"MediaUrl" = "https://www.azush.org/main/media-center/";
+"CareersUrl" = "https://www.azush.org/main/careers/";
+"ContactUrl" = "https://www.azush.org/main/contact/";
+"AboutUrl" = "https://www.azush.org/main/about-us/";
+
+"Anesthesia" = "Anesthesia";
+"EarAndNose" = "Ear, Nose and Throat";
+"Gastroenterology" = "Gastroenterology";
+"Diabetes" = "Diabetes and Endocrinology";
+"Chest" = "Chest and Pulmonology";
+"Radiology" = "Radiology";
+"Psychiatry" = "Psychiatry";
+"Orthopedic" = "Orthopedic";
+"Dermatology" = "Dermatology";
+"Urology" = "Urology";
+"Obstetrics" = "Obstetrics and Gynecology";
+"Cardiothoracic" = "Cardiothoracic Surgery";
+"Dental" = "Dental";
+"Physiotherapy" = "Physiotherapy";
+"Surgery" = "Surgery";
+"NeuroSurgery" = "Neurosurgery";
+"Vascular" = "Vascular Surgery";
+"Ophthalmology" = "Ophthalmology";
+"Dietetics" = "Dietetics";
+"Cardiology" = "Cardiology";
+"Rheumatology" = "Rheumatology";
+"Pediatric" = "Pediatric and Neonatology";
+"Internal-Medicine" = "Internal Medicine";
+"Laboratory" = "Laboratory";
+
+"Excellence-of-Quality" = "Our plan to keep you safe and provide a great experience. In health care our top priorities, above all else, are to keep our patients.";
+"Health-Leadership" = "Whereas hospitals used to be the centers of healthcare, planners now need to largest teaching hospitals leads the way in connecting the health economy.";
+"Hospital-Mission" = "The Mission of Hospital is to provide compassionate, accessible, high quality, with normal cost effective healthcare to the community.";
+"Our-Mission" = "To provide integrated community oriented highest quality of specialized, efficient and safe healthcare services for those who seek that level…";
+"Our-Vision" = "To be recognized nationally and internationally as the hospital of choice among the distinguished providers of healthcare services…";
+"Our-Values" = "Our Values are “AZUSH CARE” where each staff inside the hospital is representative of the hospital in front of the customer and his family.";
+
+"Excellence" = "Excellence of Quality";
+"Health" = "Health Leadership";
+"Hospital" = "Hospital Mission";
+"Mission" = "Our Mission";
+"Vision" = "Our Vision";
+"Values" = "Our Values";
+
+"Departments" = "Departments";
+"Find-a-Doctor" = "Find a Doctor";
+"Medical-Tourism" = "Medical Tourism";
+"News-and-Events" = "News and Events";
+"Media-Center" = "Media Center";
+"Careers" = "Careers";
+"Contact" = "Contact Us";
+"Language" = "العربية";
+"BookingBtnText" = "Book an Appointment";
+
+"alert_change_language_title" = "Change language to";
+"alert_cancel" = "Cancel";
+"en" = "English";
+"ar" = "Arabic";
+
+

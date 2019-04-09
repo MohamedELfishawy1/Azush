@@ -1,0 +1,98 @@
+/* 
+  localizable.strings
+  Azush
+
+  Created by Ahmed zaid on 3/26/19.
+  Copyright © 2019 Ahmed zaid. All rights reserved.
+*/
+"AnesthesiaUrl" = "https://www.azush.org/main/departments/anaesthesia/?lang=ar";
+"EarAndNoseUrl" = "https://www.azush.org/main/departments/ear-nose-and-throat/?lang=ar";
+"GastroenterologyUrl" = "https://www.azush.org/main/departments/gastroenterology/?lang=ar";
+"DiabetesUrl" = "https://www.azush.org/main/departments/diabetes-and-endocrinology/?lang=ar";
+"ChestUrl" = "https://www.azush.org/main/departments/chest-and-pulmonology/?lang=ar";
+"RadiologyUrl" = "https://www.azush.org/main/departments/radiology/?lang=ar";
+"PsychiatryUrl" = "https://www.azush.org/main/departments/psychiatry/?lang=ar";
+"OrthopedicUrl" = "https://www.azush.org/main/departments/orthopedic/?lang=ar";
+"DermatologyUrl" = "https://www.azush.org/main/departments/dermatology/?lang=ar";
+"UrologyUrl" = "https://www.azush.org/main/departments/urology/?lang=ar";
+"ObstetricsUrl" = "https://www.azush.org/main/departments/obstetrics-and-gynecology/?lang=ar";
+"CardiothoracicUrl" = "https://www.azush.org/main/departments/cardiothoracic-surgery/?lang=ar";
+"DentalUrl" = "https://www.azush.org/main/departments/dental/?lang=ar";
+"PhysiotherapyUrl" = "https://www.azush.org/main/departments/physiotherapy/?lang=ar";
+"SurgeryUrl" = "https://www.azush.org/main/departments/surgery/?lang=ar";
+"NeurosurgeryUrl" = "https://www.azush.org/main/departments/neurosurgery/?lang=ar";
+"VascularUrl" = "https://www.azush.org/main/departments/vascular-surgery/?lang=ar";
+"OphthalmologyUrl" = "https://www.azush.org/main/departments/ophthalmology/?lang=ar";
+"DieteticsUrl" = "https://www.azush.org/main/departments/dietetics/?lang=ar";
+"CardiologyUrl" = "https://www.azush.org/main/departments/cardiology/?lang=ar";
+"RheumatologyUrl" = "https://www.azush.org/main/departments/rheumatology/?lang=ar";
+"PediatricUrl" = "https://www.azush.org/main/departments/pediatric-and-neonatology/?lang=ar";
+"Internal-medicineUrl" = "https://www.azush.org/main/departments/internal-medicine/?lang=ar";
+"LaboratoryUrl" = "https://www.azush.org/main/departments/laboratory/?lang=ar";
+"BookingUrl" = "https://www.azush.org/main/make-an-appointment/?lang=ar";
+"DoctorsUrl" = "https://www.azush.org/main/doctors/?lang=ar";
+"Medical-tourismUrl" = "https://www.azush.org/main/medical-toursim/?lang=ar";
+"NewsUrl" = "https://www.azush.org/main/news-and-events/?lang=ar";
+"MediaUrl" = "https://www.azush.org/main/media-center/?lang=ar";
+"CareersUrl" = "https://www.azush.org/main/careers/?lang=ar";
+"ContactUrl" = "https://www.azush.org/main/contact/?lang=ar";
+"AboutUrl" = "https://www.azush.org/main/about-us/?lang=ar";
+
+
+"feedback" = "رد الفعل";
+"Ask a Question" = "اسال سوال";
+"Anesthesia" = "التخدير";
+"EarAndNose" = "الأنف والأذن والحنجرة";
+"Gastroenterology" = "الجهاز الهضمي";
+"Diabetes" = "السكري والغدد الصماء";
+"Chest" = "الصدر وطب الرئة";
+"Radiology" = "الإشعاعة";
+"Psychiatry" = "الطب النفسي";
+"Orthopedic" = "العظام";
+"Dermatology" = "طب الأمراض الجلدية";
+"Urology" = "المسالك البولية";
+"Obstetrics" = "أمراض النساء والتوليد";
+"Cardiothoracic" = "جراحة القلب";
+"Dental" = "الأسنان";
+"Physiotherapy" = "العلاج الطبيعي";
+"Surgery" = "العمليات الجراحية";
+"NeuroSurgery" = "جراحة الاعصاب";
+"Vascular" = "جراحة اوعية دموية";
+"Ophthalmology" = "طب العيون";
+"Dietetics" = "الرجيم والغذاء";
+"Cardiology" = "طب القلب";
+"Rheumatology" = "الروماتيزم";
+"Pediatric" = "طب الأطفال وحديثي الولادة";
+"Internal-Medicine" = "أمراض باطنة";
+"Laboratory" = "مختبر";
+
+
+"Excellence-of-Quality" = "خطتنا للحفاظ على سلامتك وتوفير تجربة رائعة. في مجال الرعاية الصحية ، أهم أولوياتنا ، قبل كل شيء ، هي الحفاظ على مرضانا.";
+"Health-Leadership" = "في حين كانت المستشفيات في السابق مراكز الرعاية الصحية ، يحتاج المخططون الآن إلى أكبر المستشفيات التعليمية تقود الطريق في ربط الاقتصاد الصحي.";
+"Hospital-Mission" = "تتمثل مهمة المستشفى في توفير رعاية إنسانية وميسرة وذات جودة عالية ، مع توفير رعاية صحية فعالة من حيث التكلفة للمجتمع.";
+"Our-Mission" = "تلبية احتياجات المجتمع فى تقديم الرعاية الصحية الفعالة, المتخصصة, الامنة والمتكاملة ذات الجودة العالية وتيسيرها لمن يسعى لهذا المستوى من الاحتراف الطبى.";
+"Our-Vision" = "أن نكون مميزين محليا وعالميا كأفضل اختيار وسط مقدمى خدمات الرعاية الصحية";
+"Our-Values" = "قيمنا هي “AZUSH CARE” حيث يعلم كل الموظفين داخل المستشفى بإنه ممثل للمستشفى بهذه القيم أمام العميل وعائلته.";
+
+"Excellence" = "إمتياز الجودة";
+"Health" = "القيادة الصحية";
+"Hospital" = "مهمتنا";
+"Mission" = "الرسالة";
+"Vision" = "الرؤية";
+"Values" = "القيم";
+
+"Departments" = "الأقسام";
+"Find-a-Doctor" = "الأطباء";
+"Medical-Tourism" = "السياحة العلاجية";
+"News-and-Events" = "الأخبار والأحداث";
+"Media-Center" = "المركز الإعلامى";
+"Careers" = "فرص العمل";
+"Contact" = "إتصل بنا";
+"Language" = "English";
+"BookingBtnText" = "إحجز موعد مع طبيب";
+
+"alert_change_language_title" = "تغيير اللغة ل";
+"alert_cancel" = "إلغاء";
+"en" = "الإنجليزية";
+"ar" = "العربية";
+

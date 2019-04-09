@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "Find a Doctor"; ObjectID = "FLl-hu-XdG"; */
+"FLl-hu-XdG.normalTitle" = "Find a Doctor";
+
+/* Class = "UILabel"; text = "Specialist"; ObjectID = "Fge-mY-fs1"; */
+"Fge-mY-fs1.text" = "Specialist";
+
+/* Class = "UINavigationItem"; title = "Al-Azhar Universty Special Hospital"; ObjectID = "MD8-r5-vvz"; */
+"MD8-r5-vvz.title" = "Al-Azhar Universty Special Hospital";
+
+/* Class = "UILabel"; text = "Ask  a Question"; ObjectID = "OHf-Oq-aoM"; */
+"OHf-Oq-aoM.text" = "Ask  a Question";
+
+/* Class = "UIButton"; normalTitle = "Outpatient Clinics"; ObjectID = "USj-Ze-VfY"; */
+"USj-Ze-VfY.normalTitle" = "Outpatient Clinics";
+
+/* Class = "UIButton"; normalTitle = "العربيه"; ObjectID = "X3p-NX-NcJ"; */
+"X3p-NX-NcJ.normalTitle" = "العربيه";
+
+/* Class = "UILabel"; text = "FaceBook"; ObjectID = "YK5-9H-44h"; */
+"YK5-9H-44h.text" = "FaceBook";
+
+/* Class = "UIButton"; normalTitle = "Contect Us"; ObjectID = "c6h-CZ-Vho"; */
+"c6h-CZ-Vho.normalTitle" = "Contect Us";
+
+/* Class = "UIButton"; normalTitle = "Specialist Units"; ObjectID = "fHk-Rb-6sL"; */
+"fHk-Rb-6sL.normalTitle" = "Specialist Units";
+
+/* Class = "UIButton"; normalTitle = "Careers"; ObjectID = "g1T-Fz-QrE"; */
+"g1T-Fz-QrE.normalTitle" = "Careers";
+
+/* Class = "UIButton"; normalTitle = "Book An Appointment"; ObjectID = "kFH-KX-MXi"; */
+"kFH-KX-MXi.normalTitle" = "Book An Appointment";
+
+/* Class = "UIButton"; normalTitle = "Media Center"; ObjectID = "mAO-P5-wf4"; */
+"mAO-P5-wf4.normalTitle" = "Media Center";
+
+/* Class = "UIButton"; normalTitle = "News and Events"; ObjectID = "w2d-7W-vbj"; */
+"w2d-7W-vbj.normalTitle" = "News and Events";
+
+/* Class = "UILabel"; text = "Ask a Question"; ObjectID = "wlV-on-DbY"; */
+"wlV-on-DbY.text" = "Ask a Question";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "woi-b9-01e"; */
+"woi-b9-01e.text" = "Location";
